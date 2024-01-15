@@ -1,6 +1,6 @@
 # ocaml project cheatsheet
 
-Notes from when I went on [Dillon Mulroy's Twitch stream][dmmulroy] to talk about [getting Started with OCaml][getting-started-with-ocaml].
+Notes from when I went on [Dillon Mulroy's Twitch stream][dmmulroy] to talk about [getting started with OCaml][getting-started-with-ocaml].
 
 ## project setup
 
