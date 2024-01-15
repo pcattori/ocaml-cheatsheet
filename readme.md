@@ -6,11 +6,9 @@ Notes from when I went on [Dillon Mulroy's Twitch stream](https://www.twitch.tv/
 
 The official ["Learn OCaml"](https://ocaml.org/docs) are always improving, but here are some other resources I found invaluable when starting out.
 
-#### Real World OCaml
+#### Tools & techniques
 
-[👉](https://dev.realworldocaml.org/)
-
-Highlights : tools and techniques
+👉 [Real World OCaml](https://dev.realworldocaml.org/)
 
 - [Command-line parsing](https://dev.realworldocaml.org/command-line-parsing.html)
 - [Error handling](https://dev.realworldocaml.org/error-handling.html)
@@ -19,11 +17,9 @@ Highlights : tools and techniques
 - [JSON](https://dev.realworldocaml.org/json.html)
 - [Testing](https://dev.realworldocaml.org/testing.html)
 
-#### OCaml Programming: Correct + Efficient + Beautiful
+#### Programming language design & theory
 
-[👉](https://cs3110.github.io/textbook/cover.html#)
-
-Highlights : programming language implementation and theory
+👉 [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html#)
 
 - [Implementing an interpreter in OCaml](https://cs3110.github.io/textbook/chapters/interp/intro.html)
 - [The Curry-Howard Correspondence](https://cs3110.github.io/textbook/chapters/adv/curry-howard.html)
