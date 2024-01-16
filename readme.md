@@ -4,7 +4,7 @@ Notes from when I went on [Dillon Mulroy's Twitch stream](https://www.twitch.tv/
 
 ## learning
 
-The official ["Learn OCaml"](https://ocaml.org/docs) are always improving, but here are some other resources I found invaluable when starting out.
+The official ["Learn OCaml"](https://ocaml.org/docs) docs are always improving, but here are some other resources I found invaluable when starting out.
 
 #### Tools & techniques
 
